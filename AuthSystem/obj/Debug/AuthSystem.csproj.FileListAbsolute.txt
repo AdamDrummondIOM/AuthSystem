@@ -1,0 +1,6 @@
+/Users/adam/Desktop/AuthSystem/AuthSystem/bin/Debug/AuthSystem.exe
+/Users/adam/Desktop/AuthSystem/AuthSystem/bin/Debug/AuthSystem.pdb
+/Users/adam/Desktop/AuthSystem/AuthSystem/obj/Debug/AuthSystem.csprojAssemblyReference.cache
+/Users/adam/Desktop/AuthSystem/AuthSystem/obj/Debug/AuthSystem.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/AuthSystem/AuthSystem/obj/Debug/AuthSystem.exe
+/Users/adam/Desktop/AuthSystem/AuthSystem/obj/Debug/AuthSystem.pdb
