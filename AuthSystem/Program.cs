@@ -20,6 +20,11 @@ namespace AuthSystem
             password = pass;
         }
 
+        public string Output()
+        {
+            return string.Concat(name, ':', password);
+        }
+
         public bool CheckPassword(string user, string password)
         {
             if(user == name && password == this.password)
@@ -75,6 +80,8 @@ namespace AuthSystem
             string pass = Console.ReadLine();
             users.Add(new User(name, pass));
             Console.WriteLine("User Added!");
+            StreamWriter writer = new StreamWriter("file.txt");
+            writer.WriteLine(users[users.Count]);
         }
         public static bool Login(List<User> users)
         {
